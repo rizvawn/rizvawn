@@ -18,7 +18,7 @@ I'm building skills across backend development, Linux systems, and DevOps practi
 
 ### Python Pandas Cleaner
 
-**Repository**: [`python-pandas-cleaner`](./ts.python.net/python-pandas-cleaner/python-pandas-cleaner/)
+**Repository**: [`python-pandas-cleaner`](https://github.com/rizvawn/python-pandas-cleaner)
 
 A data processing pipeline using Pandas to clean messy CSV files and transform them into structured JSON. Demonstrates:
 
@@ -33,7 +33,7 @@ A data processing pipeline using Pandas to clean messy CSV files and transform t
 
 ### Linux Foundations
 
-**Repository**: [`tier-0-foundations`](./linux/tier-0-foundations/)
+**Repository**: [`tier-0-foundations`](https://github.com/rizvawn/linux-tier-0-foundations)
 
 Foundational Linux command-line skills through hands-on exercises:
 
