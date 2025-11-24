@@ -33,7 +33,7 @@ A data processing pipeline using Pandas to clean messy CSV files and transform t
 
 ### Linux Foundations
 
-**Repository**: [`tier-0-foundations`](https://github.com/rizvawn/linux-tier-0-foundations)
+**Repository**: [`linux-tier-0-foundations`](https://github.com/rizvawn/linux-tier-0-foundations)
 
 Foundational Linux command-line skills through hands-on exercises:
 
