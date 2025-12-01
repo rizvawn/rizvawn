@@ -1,6 +1,4 @@
-# Rizwan
-
-## Full-Stack Developer & Linux/DevOps Engineer
+# Full-Stack Developer & Linux/DevOps Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-rizwan-dot-net-developer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-orange?logo=github)](https://github.com/rizvawn)
