@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rizwan
+# Rizwan
 
 ## Full-Stack Developer & Linux/DevOps Engineer
 
