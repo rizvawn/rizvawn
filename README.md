@@ -44,18 +44,18 @@ Linux kernel source analysis using Bash glob patterns, from basic wildcards to a
 
 ---
 
-### Linux System Explorer 🚧
+### Linux System Explorer ✅
 
 **Repository**: [`linux-tier-1-system-explorer`](https://github.com/rizvawn/linux-tier-1-system-explorer)
 
 Interactive Filesystem Hierarchy Standard (FHS) navigation tool:
 
-- Interactive FHS navigation script
-- Quiz functionality for learning
-- Comprehensive filesystem hierarchy documentation
-- Built-in help system
+- Interactive FHS navigation script with dual interface (menu/CLI)
+- Scenario-based quiz system with state management
+- Integrated FHS cheatsheet covering 15 directories
+- Comprehensive unit testing with BATS framework
 
-**Tech**: Bash, Linux
+**Tech**: Bash, Linux, BATS
 
 ---
 
@@ -89,4 +89,4 @@ Reach out to discuss projects, collaboration, or learning:
 
 ---
 
-**Last Updated**: December 1, 2025
+**Last Updated**: December 22, 2025
