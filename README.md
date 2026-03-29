@@ -64,6 +64,24 @@ A data processing pipeline using Pandas to clean messy CSV files and transform t
 
 ---
 
+### RHEL Navigator ✅
+
+**Repository:** [`rhel-navigator`](https://github.com/rizvawn/rhel-navigator)
+
+A production-grade Red Hat Enterprise Linux (RHEL) system reconnaissance and auditing tool built around a “configure-then-verify” workflow. It demonstrates practical Linux administration and security best practices by pairing hands-on system configuration tasks with automated validation checks, using Bash for orchestration and Python for JSON parsing and higher-level logic.
+
+**Key highlights:**
+
+- RHEL-focused auditing and validation: OS fingerprinting, user/account checks, file permission verification
+- Admin & observability tooling: `systemctl` service checks, `journalctl` log analysis, disk/LVM usage checks
+- Security + infrastructure checks: network listener auditing via `ss`, SSH key permission audits (Ed25519), timestamped backup generation
+- Container inspection support: analyzes Podman container state by parsing JSON output with Python
+- FHS-aligned layout with a single main executable (`bin/navigator`) plus supporting `etc/`, `lib/`, and `var/` directories
+
+**Technologies:** Bash · Python · systemd (`systemctl`) · `journalctl` · Podman · Linux utilities (`ss`, `awk`, `grep`)
+
+---
+
 ### Bash Globbing Mastery ✅
 
 **Repository**: [`bash-globbing`](https://github.com/rizvawn/bash-globbing)
