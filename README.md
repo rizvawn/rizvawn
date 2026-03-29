@@ -12,7 +12,24 @@ I'm building skills across backend development, Linux systems, and DevOps practi
 
 ---
 
-## 📂 Active Projects
+## 📂 Projects
+
+### MongoDB Bash Workshop ✅
+
+**Repository:** [mongodb-bash-workshop](https://github.com/rizvawn/mongodb-bash-workshop)
+
+A hands-on educational project demonstrating core MongoDB concepts through executable Bash scripts. The workshop walks through CRUD operations (Create, Read, Update, Delete), document modeling strategies, cross-collection lookups, and schema validation, all driven directly from the command line using `mongosh` inside a Docker-hosted MongoDB instance.
+
+**Key highlights:**
+
+- 10 sequential Bash scripts covering the full MongoDB fundamentals workflow
+- Executing CRUD operations directly via MongoDB Shell (`mongosh`) without abstraction layers
+- Embedded vs. referenced document modeling with practical trade-off analysis
+- JSON Schema validation enforced at the database level (`collMod`)
+- Fully repeatable via a single `run_all.sh` orchestration script
+
+**Technologies:** MongoDB · Bash · Docker · mongosh · JSON Schema
+
 
 ### Python Pandas Cleaner ✅
 
