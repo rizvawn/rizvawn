@@ -14,6 +14,23 @@ I'm building skills across backend development, Linux systems, and DevOps practi
 
 ## 📂 Projects
 
+### Heart Disease Predictor ✅
+
+**Repository:** [`heart-disease-predictor`](https://github.com/rizvawn/heart-disease-predictor)
+
+A machine-learning project that predicts heart disease from patient health metrics using a clean, object-oriented Python architecture. It includes a full workflow—data loading/inspection, exploratory analysis in Jupyter, model training/evaluation, and a terminal-based app for running predictions with a saved model.
+
+**Key highlights:**
+
+- End-to-end ML pipeline: data processing → EDA (notebooks) → model training → CLI predictions
+- Object-oriented, modular structure: `DataProcessor`, `ModelTrainer`, `TerminalApp`
+- Dataset: Kaggle Heart Disease dataset (1,025 records, 13 features + binary target)
+- Model artifact: saves a trained model for reuse at `models/best_model.pkl`
+
+**Technologies:** Python · Jupyter Notebook · scikit-learn · pandas · matplotlib/seaborn
+
+---
+
 ### MongoDB Bash Workshop ✅
 
 **Repository:** [mongodb-bash-workshop](https://github.com/rizvawn/mongodb-bash-workshop)
@@ -30,6 +47,7 @@ A hands-on educational project demonstrating core MongoDB concepts through execu
 
 **Technologies:** MongoDB · Bash · Docker · mongosh · JSON Schema
 
+---
 
 ### Python Pandas Cleaner ✅
 
