@@ -33,7 +33,7 @@ A machine-learning project that predicts heart disease from patient health metri
 
 ### MongoDB Bash Workshop ✅
 
-**Repository:** [mongodb-bash-workshop](https://github.com/rizvawn/mongodb-bash-workshop)
+**Repository:** [`mongodb-bash-workshop`](https://github.com/rizvawn/mongodb-bash-workshop)
 
 A hands-on educational project demonstrating core MongoDB concepts through executable Bash scripts. The workshop walks through CRUD operations (Create, Read, Update, Delete), document modeling strategies, cross-collection lookups, and schema validation, all driven directly from the command line using `mongosh` inside a Docker-hosted MongoDB instance.
 
@@ -82,7 +82,8 @@ A production-grade Red Hat Enterprise Linux (RHEL) system reconnaissance and aud
 
 ---
 
-Package Management Dashboard ✅
+### Package Management Dashboard ✅
+
 **Repository:** [`package-management-dashboard`](https://github.com/rizvawn/package-management-dashboard)
 
 Shell-based toolkit for package management analysis on RHEL/Fedora systems, exposed through a unified `pkg` CLI:
@@ -113,7 +114,7 @@ Linux kernel source analysis using Bash glob patterns, from basic wildcards to a
 
 ### Linux System Explorer ✅
 
-**Repository**: [`linux-tier-1-system-explorer`](https://github.com/rizvawn/linux-tier-1-system-explorer)
+**Repository**: [`linux-system-explorer`](https://github.com/rizvawn/linux-system-explorer)
 
 Interactive Filesystem Hierarchy Standard (FHS) navigation tool:
 
