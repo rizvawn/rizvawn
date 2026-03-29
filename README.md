@@ -82,6 +82,20 @@ A production-grade Red Hat Enterprise Linux (RHEL) system reconnaissance and aud
 
 ---
 
+Package Management Dashboard ✅
+**Repository:** [`package-management-dashboard`](https://github.com/rizvawn/package-management-dashboard)
+
+Shell-based toolkit for package management analysis on RHEL/Fedora systems, exposed through a unified `pkg` CLI:
+
+- Query installed packages with totals and disk usage
+- Search repositories (DNF5-compatible) with install status
+- Inspect package metadata, files, changelog, and direct dependencies
+- Validate repo health (enabled/disabled, package counts, accessibility)
+
+**Tech:** Bash · DNF5/DNF4 · YUM · RPM · awk/sed/grep
+
+---
+
 ### Bash Globbing Mastery ✅
 
 **Repository**: [`bash-globbing`](https://github.com/rizvawn/bash-globbing)
