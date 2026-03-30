@@ -1,6 +1,6 @@
 # Full-Stack Developer & DevOps Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-rizwan-dot-net-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rizwan-systemutvecklare)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-orange?logo=github)](https://github.com/rizvawn)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:rizvawn@gmail.com)
 
@@ -103,7 +103,7 @@ Currently studying **DevOps Engineering** at [![Lernia Yrkeshögskola](https://i
 Reach out to discuss projects, collaboration, or learning:
 
 - 📧 Email: [rizvawn@gmail.com](mailto:rizvawn@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-systemutvecklare)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rizwan-systemutvecklare)
 
 ---
 
