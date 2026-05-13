@@ -10,19 +10,23 @@
 
 I'm a DevOps student and technology enthusiast building deep expertise across Linux systems, backend development, and DevOps practices. 
 
-I thrive in collaborative, team-oriented environments and am passionate about scalable infrastructure, automation, and secure environments. This profile documents my working code and real implementations, demonstrating my ability to bridge the gap between development and operations.
+I thrive in collaborative, team-oriented environments and am passionate about scalable infrastructure, automation, and secure environments. This profile documents my working code and real implementati...
 
 ---
 
 ## 🎓 Education
 
-Currently studying **DevOps Engineering** at [![Lernia Yrkeshögskola](https://img.shields.io/badge/Lernia-Yrkesh%C3%B6gskola-lightblue)](https://www.lerniautbildning.se/)
-, I am actively seeking a **LIA internship for Autumn 2026/Spring 2027**.
+[![EC Utbildning](https://img.shields.io/badge/EC%20Utbildning-darkgreen)](https://www.ecutbildning.se/)  
+**Pythonprogrammering med AI** (2025–2026)  
+Modern Python with AI focus: syntax, OOP, data processing, visualization, AI ethics, and hands-on machine learning with Pandas, Matplotlib, Scikit-learn, and TensorFlow.
+
+[![IT Högskolan](https://img.shields.io/badge/IT--H%C3%B6gskolan-purple)](https://www.iths.se/)  
+**Yrkeshögskoleexamen, .NET Developer** (2023–2025)  
+YH exam (400 YH points): Swedish .NET development, C#, web/backend, databases, agile practices, clean code, and a 28-week LIA internship at Sprinto AB (Slack Chat Integration, educator platform projects). Entry based on Swedish recognition of foreign secondary education and supplemental Komvux studies.
 
 ---
 
 ## 📂 Projects
-
 
 <table>
 	<tr>
