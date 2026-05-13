@@ -8,9 +8,10 @@
 
 ## 🚀 About Me
 
-I'm a DevOps student and technology enthusiast building deep expertise across Linux systems, backend development, and DevOps practices. 
-
-I thrive in collaborative, team-oriented environments and am passionate about scalable infrastructure, automation, and secure environments. This profile documents my working code and real implementati...
+- **Headline:** System developer who bridges industrial production and CAD with modern web and AI engineering, delivering production‑ready software and ML solutions.  
+- **Core tech:** Full‑stack & real‑time: C#, .NET, TypeScript/Next.js, Socket.IO, Redis, APIs, integrations, and resilient services.  
+- **Data & ML:** End‑to‑end Python workflows, exploratory analysis & visualization (Pandas, NumPy, Jupyter, Matplotlib/Seaborn); feature engineering & model training (scikit‑learn, XGBoost); deep‑learning prototyping (TensorFlow); reproducible pipelines and lightweight inference APIs for production.  
+- **Infra & approach:** Linux‑first backend, Docker, CI/CD, automated tests and secure deployments; pragmatic, collaborative, and outcome‑focused. Working code and real implementations available in my profile.
 
 ---
 
@@ -22,7 +23,7 @@ Modern Python with AI focus: syntax, OOP, data processing, visualization, AI eth
 
 [![IT Högskolan](https://img.shields.io/badge/IT--H%C3%B6gskolan-purple)](https://www.iths.se/)  
 **Yrkeshögskoleexamen, .NET Developer** (2023–2025)  
-YH exam (400 YH points): Swedish .NET development, C#, web/backend, databases, agile practices, clean code, and a 28-week LIA internship at Sprinto AB (Slack Chat Integration, educator platform projects). Entry based on Swedish recognition of foreign secondary education and supplemental Komvux studies.
+YH exam (400 YH points): Swedish .NET development, C#, web/backend, databases, agile practices, clean code, and a 28-week LIA internship at Sprinto AB (Slack Chat Integration, educator platform projects). 
 
 ---
 
